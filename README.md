@@ -1,2 +1,2 @@
 # airspyhf-flext
-externals for airspyhf devices (Pd and Max)
+external for airspyhf devices (Pd and Max)
